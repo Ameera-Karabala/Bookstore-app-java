@@ -1,8 +1,7 @@
 # Bookstore-app-java
-Java Swing bookstore application (COE528 project)
+Java Swing bookstore application 
 
-
-This is a bookstore application I built for my COE528 project. It uses Java Swing for the GUI and follows object-oriented design.
+This is a bookstore application I built as a personal project. It uses Java Swing for the GUI and follows object-oriented design.
 
 The app has two types of users: owner and customer.
 
